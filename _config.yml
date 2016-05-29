@@ -10,8 +10,8 @@ title: Start Jekyll
 email: funnyyoushouldmentionthat@gmail.com	
 description: >
   A guide to getting started with Jekyll.
-baseurl: "/startjekyll.git"
-url: "http://criticaltom.github.io"
+baseurl: "/startjekyll" # the subpath of your site, e.g. /blog
+url: "http://criticaltom.github.io" # the base hostname & protocol for your site
 twitter_username: critical_tom
 github_username:  N/A
 
