@@ -9,7 +9,7 @@
 title: Critical Tom
 email: funnyyoushouldmentionthat@gmail.com	
 description: >
-  A guide to getting started with Jekyll.
+  A site where Tom is critical.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.criticaltom.com" # the base hostname & protocol for your site
 twitter_username: critical_tom
