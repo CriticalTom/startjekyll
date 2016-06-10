@@ -19,5 +19,6 @@ github_username:  N/A
 sass:
   sass_dir: _sass
 include: ['_pages']
+paginate: 5
 kramdown:
   input: GFM
