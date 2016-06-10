@@ -36,11 +36,13 @@ a:hover {
 	color: $link-hover-color;
 	text-decoration: underline;
 }
-a.pagelink {
+a.internallink {
 	color: $link-color;
 	font-style: italic;
+	line-height: 1;
+	font-size: 2em;
 }
-a.pagelink:hover {
+a.internallink:hover {
 	color: $link-hover-color;
 }
 header {
