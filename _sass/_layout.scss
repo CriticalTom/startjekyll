@@ -27,17 +27,6 @@ h1 {
 h2 {
 	font-size: 2em;
 }
-h4 {	font-weight: 200;
-	line-height: 1;
-	font-size: 8;
-	font-style: italic;
-	a,
-	a:visited {
-		text-decoration: underline;
-		font-style: italic;
-	}
-}
-b,
 a,
 a:visited {
 	color: $link-color;
@@ -48,14 +37,15 @@ a:hover {
 	color: $link-hover-color;
 	text-decoration: underline;
 }
-b:visited {
-	color: $link-color;
-	text-decoration: underline;
+h4 {	font-weight: 200;
+	line-height: 1;
+	font-size: 8;
 	font-style: italic;
-}
-b:hover {
-	color: $link-hover-color;
-	text-decoration: underline;
+	a,
+	a:visited {
+		text-decoration: underline;
+		font-style: italic;
+	}
 }
 header {
 	background: $header;
