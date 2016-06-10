@@ -32,6 +32,7 @@ h1 {
 h2 {
 	font-size: 2em;
 }
+b,
 a,
 a:visited {
 	color: $link-color;
@@ -39,6 +40,15 @@ a:visited {
 	font-weight: bold;
 }
 a:hover {
+	color: $link-hover-color;
+	text-decoration: underline;
+}
+b:visited {
+	color: $link-color;
+	text-decoration: underline;
+	font-weight: italic;
+}
+b:hover {
 	color: $link-hover-color;
 	text-decoration: underline;
 }
