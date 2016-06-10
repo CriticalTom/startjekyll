@@ -7,6 +7,7 @@ status: publish
 permalink: /repost-rachel-bloom-and-song-mythology
 ---
 <p class="TextBody">I’ve been watching <a href="https://en.wikipedia.org/wiki/Crazy_Ex-Girlfriend_(TV_series)" target="_blank"><span class="InternetLink">Crazy Ex-Girlfriend</span></a>, a show whose comedy hits me in exactly the right place. Of course, my last 2 favorite comedies were Happy Endings and Community, both of which met ignoble ends, so it’s not a great sign for the already-lowly-rated Crazy Ex-Girlfriend. Apparently my fandom isn’t worth much. [<em>EDIT: Well it got renewed, although the details have yet to emerge. Thankfully someone is championing it within CW...</em>]</p>
+
 <p class="TextBody">Interestingly, the women who plays the lead character made the <a href="https://www.youtube.com/watch?v=e1IxOS4VzKM" target="_blank"><span class="InternetLink">Fuck Me Ray Bradbury</span></a> video, which came out about a year after I started graduate school, lining up perfectly with an increase in lab work and a decrease in media consumption… so for me, it was a flash in the pan and I never bothered to follow up – but Rachel Bloom has been steadily working her way up from a single (brilliant) youtube video to a writing, acting, and everything-else career.</p>
 <p class="TextBody">But don’t worry, she still finds time to make stuff that couldn’t possibly make her any money at all…</p>
 <p class="TextBody">Witness this sketch: a <a href="https://www.youtube.com/watch?v=li1uORCIYeI" target="_blank"><span class="InternetLink">Sugar Ray musical</span></a>.</p>
