@@ -7,7 +7,7 @@ layout: default
     <time>{{ post.date | date: "%b %-d, %Y" }}</time>
     <h3><a href="{{ post.url |prepend: site.baseurl }}">{{ post.title }}</a></h3>
     {{ post.excerpt }}
-    <i><a href="{{ post.url |prepend: site.baseurl }}">{{ "continue reading..." }}</a></i>
+    <i></i><h4><a href="{{ post.url |prepend: site.baseurl }}">{{ "continue reading..." }}</a></h4></i>
 {% endfor %}
 
 <p> subscribe <a hfref="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
