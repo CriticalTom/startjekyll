@@ -5,6 +5,7 @@ title: "REPOST- Gas Station Pet Peeves"
 date: 2016-03-21 13-01
 status: publish
 permalink: /repost-gas-station-pet-peeves
+comments: true
 ---
 Gas station pet peeves:
 <ol>
